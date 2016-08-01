@@ -9,6 +9,7 @@ public class GitTestAppl {
 
 		  System.out.println("555");
 		  System.out.println("111");
+		  System.out.println("Hello Git, from branch bug#12 !!");
 		  
 	}
 }
